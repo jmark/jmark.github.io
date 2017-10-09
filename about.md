@@ -1,4 +1,4 @@
-# Johannes Markert.
+# Johannes Markert
 
 ## Postal address
 ```
